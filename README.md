@@ -7,7 +7,7 @@ Description: The repository consists of below list of machine learning models fo
 
 	1. Logistic Regression
 	2. Random Forest
-  3. Random Forest
+	3. SVM
 	4. GBM
 
 Note:
